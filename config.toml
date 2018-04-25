@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.idiap.ch/~whe/"
+baseurl = "https://idiap.ch/~whe/"
 
 # Title of your site
 title = "Weipeng He"
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-118143470-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -59,7 +59,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Idiap Research Institue", url = "https://www.idiap.ch" },
+  organizations = [ { name = "Idiap Research Institue", url = "https://idiap.ch" },
                     { name = "EPFL", url = "https://epfl.ch" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
