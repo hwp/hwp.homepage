@@ -1,6 +1,6 @@
 +++
 title = "Deep Neural Networks for Multiple Speaker Detection and Localization"
-date = 2018-04-20T00:00:00
+date = 2018-04-20T00:00:00Z
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weipeng He", "Petr Motlicek", "Jean-Marc Odobez"]
