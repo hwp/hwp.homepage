@@ -1,6 +1,6 @@
 +++
 title = "Joint Localization and Classification of Multiple Sound Sources Using a Multi-task Neural Network"
-date = 2018-06-04T00:00:00Z
+date = 2018-06-02T00:00:00Z
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weipeng He", "Petr Motlicek", "Jean-Marc Odobez"]
@@ -35,7 +35,7 @@ selected = true
 # projects = ["mummer"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/papers/ssl-sns-multitask.pdf"
 url_preprint = ""
 # url_code = ""
 url_dataset = ""

@@ -1,6 +1,6 @@
 +++
 title = "Deep Neural Networks for Multiple Speaker Detection and Localization"
-date = 2018-04-20T00:00:00Z
+date = 2018-05-21T00:00:00Z
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weipeng He", "Petr Motlicek", "Jean-Marc Odobez"]
@@ -35,8 +35,8 @@ selected = true
 # projects = ["mummer"]
 
 # Links (optional).
-# url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/1711.11565"
+url_pdf = "https://arxiv.org/pdf/1711.11565"
+# url_preprint = ""
 # url_code = ""
 url_dataset = "https://www.idiap.ch/dataset/sslr/"
 url_project = "http://mummer-project.eu"
