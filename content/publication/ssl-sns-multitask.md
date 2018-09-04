@@ -63,5 +63,7 @@ caption = ""
 
 +++
 
+This paper is nominated for the best student paper.
+
 {{< youtube O7bQvg03RTc >}}
 
