@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -65,7 +65,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "weipeng.he@idiap.ch"
-  address = "308"
+  address = "Idiap Research Institue, Rue Marconi 19, 1920 Martigny, Switzerland"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+41 27 721 77 71"
   #skype = "echo123"
@@ -241,7 +241,7 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://github.com/hwp"
 
 
