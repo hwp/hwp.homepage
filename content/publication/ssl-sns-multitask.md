@@ -47,7 +47,7 @@ url_video = "https://www.youtube.com/watch?v=O7bQvg03RTc"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "DOI", url = "http://dx.doi.org/10.21437/Interspeech.2018-1269"}]
+url_custom = [{name = "DOI", url = "http://doi.org/10.21437/Interspeech.2018-1269"}]
 
 # Does the content use math formatting?
 math = true
