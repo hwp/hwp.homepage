@@ -51,7 +51,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "custom"
 
   # Your details.
   name = "Weipeng He<br>何伟鹏"

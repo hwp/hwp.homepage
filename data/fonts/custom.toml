@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Custom"
+
+# Optional Google font URL
+google_fonts = "Muli"
+
+# Font families
+heading_font = "Muli"
+body_font = "Muli"
+nav_font = "Muli"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
