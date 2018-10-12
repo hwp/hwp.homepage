@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Weipeng He 何伟鹏"
+  name = "Weipeng He <br> 何伟鹏"
   role = "Research Assistant"
 
   # Organizations/Affiliations.
