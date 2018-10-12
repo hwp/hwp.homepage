@@ -42,8 +42,7 @@ enableGitInfo = false
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
-  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
-
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).  
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
@@ -59,8 +58,18 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Idiap Research Institue", url = "https://idiap.ch" },
-                    { name = "EPFL", url = "https://epfl.ch" } ]
+  organizations = [
+    {
+      name = "Idiap Research Institute",
+      url = "https://idiap.ch",
+      logo = "idiap_logo.jpg"
+    },
+    {
+      name = "EPFL",
+      url = "https://epfl.ch",
+      logo = "epfl_logo.jpg"
+    }
+  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
