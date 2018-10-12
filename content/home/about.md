@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Robotic Audition",
-    "Audio-visual Tracking",
-    "Artificial Intelligence",
+    "Acoustic Scene Analysis",
+    "Sound Source Localization",
+    "Robot Audition",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,7 +24,7 @@ weight = 5
   year = 2015
 
 [[education.courses]]
-  course = "B.Eng. in Computer Science and Technology, B.Sc. in Mathematics"
+  course = "B.Eng. in Computer Science and Technology<br>B.Sc. in Mathematics"
   institution = "Tsinghua University"
   year = 2012
  
@@ -31,8 +32,8 @@ weight = 5
 
 # Biography
 
-I am a research assistant at Idiap Rearch Institue in Martigny, Switzerland.
-I am also enrolled in the EDEE doctral program at EPFL. I am supervised by [Jean-Marc Odobez](http://www.idiap.ch/~odobez) and [Petr Motlicek](http://people.idiap.ch/pmotlic).
+I am a research assistant at Idiap Research Institute in Martigny, Switzerland.
+I am also enrolled in the EDEE doctoral program at EPFL. I am supervised by [Dr. Jean-Marc Odobez](http://www.idiap.ch/~odobez) and [Dr. Petr Motlicek](http://people.idiap.ch/pmotlic).
 
-My research intersts include sound source localization, computational auditory scene analysis and robotic audition.
+My research explores acoustic scene analysis in complicated environments with the particular use of deep learning techniques. 
 
