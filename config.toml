@@ -225,7 +225,7 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
+    icon = "envelope-square"
     icon_pack = "fa"
     link = "mailto:weipeng.he@idiap.ch"
 
@@ -235,15 +235,19 @@ enableGitInfo = false
 #   link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "google-scholar-square"
     icon_pack = "ai"
     link = "https://scholar.google.de/citations?user=m6VYhKMAAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "github-square"
     icon_pack = "fab"
     link = "https://github.com/hwp"
 
+  [[params.social]]
+    icon = "cv-square"
+    icon_pack = "ai"
+    link = "files/weipeng_he.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
