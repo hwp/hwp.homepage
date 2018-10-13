@@ -32,8 +32,9 @@ weight = 5
 
 # Biography
 
-I am a research assistant at Idiap Research Institute in Martigny, Switzerland.
-I am also enrolled in the EDEE doctoral program at EPFL. I am supervised by [Dr. Jean-Marc Odobez](http://www.idiap.ch/~odobez) and [Dr. Petr Motlicek](http://people.idiap.ch/pmotlic).
+I am a research assistant at [Idiap Research Institute](https://idiap.ch) in Martigny, Switzerland.
+I am also enrolled in the EDEE doctoral program at [EPFL](https://epfl.ch).
+I am supervised by [Dr. Jean-Marc Odobez](https://idiap.ch/~odobez) and [Dr. Petr Motlicek](http://people.idiap.ch/pmotlic).
 
 My research explores acoustic scene analysis in complicated environments with the particular use of deep learning techniques. 
 
