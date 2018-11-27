@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Acoustic Scene Analysis",
-    "Sound Source Localization",
-    "Robot Audition",
-    "Machine Learning"
+    "Learning-based multi-microphone acoustic signal processing",
+    "Sound source localization",
+    "Robot audition",
+    "Machine learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,5 +36,5 @@ I am a research assistant at [Idiap Research Institute](https://idiap.ch) in Mar
 I am also enrolled in the EDEE doctoral program at [EPFL](https://epfl.ch).
 My supervisors are [Dr. Jean-Marc Odobez](https://idiap.ch/~odobez) and [Dr. Petr Motlicek](http://people.idiap.ch/pmotlic).
 
-My research explores acoustic scene analysis in complicated environments with the particular use of deep learning techniques. 
+My research explores multi-microphone acoustic signal processing in complicated environments with deep learning methods. 
 
