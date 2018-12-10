@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Learning-based multi-microphone acoustic signal processing",
-    "Sound source localization",
-    "Robot audition",
-    "Machine learning"
+    "Acoustic signal processing",
+    "Machine learning",
+    "Robot audio perception",
+    "Computer vision"
   ]
 
 # List your qualifications (such as academic degrees).
