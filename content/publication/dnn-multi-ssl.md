@@ -42,7 +42,7 @@ url_dataset = "https://www.idiap.ch/dataset/sslr/"
 url_project = "http://mummer-project.eu"
 # url_slides = "#"
 url_video = "https://www.youtube.com/watch?v=_4EwuVlE_pU"
-# url_poster = "#"
+url_poster = "files/papers/he_et_al-icra2018-poster.pdf"
 # url_source = "#"
 
 # Custom links (optional).

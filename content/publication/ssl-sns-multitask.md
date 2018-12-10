@@ -35,14 +35,14 @@ selected = true
 # projects = ["mummer"]
 
 # Links (optional).
-url_pdf = "files/papers/ssl-sns-multitask.pdf"
+url_pdf = "files/papers/he_et_al-interspeech2018.pdf"
 url_preprint = ""
 # url_code = ""
 url_dataset = ""
 url_project = "http://mummer-project.eu"
 # url_slides = "#"
 url_video = "https://www.youtube.com/watch?v=O7bQvg03RTc"
-# url_poster = "#"
+url_poster = "files/papers/he_et_al-interspeech2018-poster.pdf"
 # url_source = "#"
 
 # Custom links (optional).
