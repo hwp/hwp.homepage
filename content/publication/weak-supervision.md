@@ -1,6 +1,6 @@
 +++
 title = "Adaptation of Multiple Sound Source Localization Neural Networks with Weak Supervision and Domain-Adversarial Training"
-date = 2019-02-11T00:00:00Z
+date = 2019-05-11T00:00:00Z
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weipeng He", "Petr Motlicek", "Jean-Marc Odobez"]
@@ -40,15 +40,14 @@ url_preprint = ""
 # url_code = ""
 url_dataset = ""
 url_project = "http://mummer-project.eu"
-# url_slides = "#"
+url_slides = "files/papers/he_et_al-icassp2019-slides.odp"
 # url_video = ""
-# url_poster = ""
+url_poster = "files/papers/he_et_al-icassp2019-poster.pdf"
 # url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "DOI", url = ""}]
-
+url_custom = [{name = "DOI", url = "https://doi.org/10.1109/ICASSP.2019.8682655"}] 
 # Does the content use math formatting?
 math = true
 
