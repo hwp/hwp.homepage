@@ -77,7 +77,7 @@ enableGitInfo = false
   email = "weipeng.he@idiap.ch"
   address = "Idiap Research Institue, Rue Marconi 19, 1920 Martigny, Switzerland"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+41 27 721 77 71"
+  # phone = "+41 27 721 77 71"
   #skype = "echo123"
   #telegram = ""
 

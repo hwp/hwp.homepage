@@ -13,8 +13,8 @@ weight = 5
     "Acoustic signal processing",
     "Machine learning",
     "Robot audio perception",
-    "Computer vision"
   ]
+#   "Computer vision"
 
 # List your qualifications (such as academic degrees).
 
