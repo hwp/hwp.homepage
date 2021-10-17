@@ -1,3 +1,3 @@
 #!/bin/sh
-HOST=italix27
-rm -r public && hugo && rsync -avz --delete public/ ${HOST}:~/public
+HOST=localhost
+rm -r public && hugo && rsync -avz --delete --exclude=hidden public/ "${HOST}:~/workspace/hwp.github.io"
